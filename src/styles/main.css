@@ -1,0 +1,12 @@
+.hero .container {
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Teko, sans-serif;
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */

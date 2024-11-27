@@ -1,0 +1,22 @@
+@use 'variables' as *;
+
+.event {
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 24px;
+    height: 100vh;
+    align-items: center;
+
+    &__details {
+        text-align: center;
+
+        &__title {
+            font-size: 32px;
+        }
+
+        &__txt{
+            font-size: 24px;
+        }
+    }
+}
